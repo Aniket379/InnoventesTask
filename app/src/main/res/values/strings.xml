@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OfflineProgrammingTest</string>
+    <string name="first_of_the_steps_to_set_nyou_up_with_a_bank_account">First of the steps to set \nyou up with a Bank Account</string>
+    <string name="pan_number">PAN NUMBER</string>
+    <string name="providing_pan_and_date_of_birth_helps_us_find_and_nfetch_your_kyc_from_a_central_registry_by_the_ngovernment_of_india">Providing PAN and Date of Birth helps us find and \nfetch your KYC from a central registry by the \nGovernment of India.</string>
+</resources>
